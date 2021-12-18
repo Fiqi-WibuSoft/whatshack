@@ -1,12 +1,10 @@
 #!/bin/bash
 clear
-echo "
-os.system('clear')
-	print(C+'Follow IG DULU BIAR TAMBAH'+W+' WORK !'+C+' :)')
-	sleep(1.5)
-	os.system('xdg-open https://www.instagram.com/hyputganz_')
-	os.system('clear')
-	sleep(1.3)
+echo "print(C+'Follow IG DULU BIAR TAMBAH'+W+' WORK !'+C+' :)')
+sleep 3
+os.system('xdg-open https://www.instagram.com/hyputganz_')
+os.system
+sleep 1.3";
   
 ############################################
 # Whatsapp Exploit # By Fiqi G4nZ          #
