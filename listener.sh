@@ -1,12 +1,11 @@
 #!/bin/bash
 clear
 echo "
-<-- IndoSec -->
-####################
-# Whatsapp Exploit # By Fiqi G4nZ
-#   Log Listener   # akukalian11@gmail.com
-####################
-
+             <-- IndoSec -->
+############################################
+# Whatsapp Exploit # By Fiqi G4nZ.         #
+#   Log Listener   # akukalian11@gmail.com #
+############################################
 Copyright (c) 2021 Fiqi Ganz";
 echo "";
 read -p "Server   : http://" server
