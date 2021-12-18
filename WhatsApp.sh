@@ -1,10 +1,10 @@
 #!/bin/bash
 clear
 echo "
-####################
-# Whatsapp Exploit # By Fiqi G4nZ
-#   Log Listener   # akukalian11@gmail.com
-####################
+############################################
+# Whatsapp Exploit # By Fiqi G4nZ          #
+# Log Listener     # akukalian11@gmail.com #
+############################################
 
 Author = Fiqi Putra Ardiansyah ";
 echo "";
