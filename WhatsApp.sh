@@ -1,11 +1,11 @@
 #!/bin/bash
 clear
 echo "
-        << Welcome FiqGanz >>
-        ¦===================¦
-           ΦHack WhatsAppΦ
-              ΔExploitΔ
-        ¦===================¦
+####################
+# Whatsapp Exploit # By Fiqi G4nZ
+#   Log Listener   # akukalian11@gmail.com
+####################
+
 Author = Fiqi Putra Ardiansyah ";
 echo "";
 read -p "Masukan Nomer Anda => " nomer;
