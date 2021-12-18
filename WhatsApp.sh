@@ -1,11 +1,10 @@
 #!/bin/bash
 clear
-echo "print(C+'Follow IG DULU BIAR TAMBAH'+W+' WORK !'+C+' :)')
-sleep 3
-os.system('xdg-open https://www.instagram.com/hyputganz_')
-os.system
-sleep 1.3";
-  
+echo "
+read -p "FOLLOW INSTAGRAM GW DULU BIAR TAMBAH WORK"
+sleep 2.1
+echo "TUNGGU SEDANG PROSES...";
+sleep 5
 ############################################
 # Whatsapp Exploit # By Fiqi G4nZ          #
 # Log Listener     # akukalian11@gmail.com #
