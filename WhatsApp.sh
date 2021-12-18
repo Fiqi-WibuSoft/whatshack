@@ -1,14 +1,16 @@
 #!/bin/bash
 clear
 echo "
-<< Welcome FiqGanz >>
-¦===================¦
-   ΦHack WhatsappΦ
-      ΔExploitΔ
-¦===================¦
+        << Welcome FiqGanz >>
+      😎¦===================¦😎
+           ΦHack WhatsappΦ
+              ΔExploitΔ
+      😎¦===================¦😎
+echo "
 Author = Fiqi Putra Ardiansyah ";
 echo "";
 read -p "Masukan Nomer Anda => " nomer;
+sleep 1.2
 read -p "Masukan Nomer Target => " target;
 sleep 2
 echo "[+] Sedang Mendapatkan Data...";
